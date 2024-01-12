@@ -1,4 +1,4 @@
-package ec.edu.puce.interfaces2;
+package ec.edu.puce.clasesAbstractas;
 
 public abstract class FiguraGeometrica {
 
